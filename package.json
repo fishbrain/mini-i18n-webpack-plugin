@@ -20,12 +20,12 @@
     "webpack": "^5.24.0"
   },
   "devDependencies": {
-    "eslint": "^7.21.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-import": "^2.22.1",
-    "mocha": "^8.3.1",
-    "prettier": "^2.2.1"
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-config-prettier": "8.10.2",
+    "eslint-plugin-import": "2.32.0",
+    "mocha": "8.4.0",
+    "prettier": "2.8.8"
   },
   "prettier": {
     "singleQuote": true,
